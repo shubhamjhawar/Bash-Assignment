@@ -3,8 +3,8 @@
 Command Line Assignment
 *******************************************************************************
 
-## Question 1. Write a bash script to get the current date, time, username, home directory and
-current working directory.
+## Question 1. Write a bash script to get the current date, time, username, home directory and cureent working directory
+
 
 
 *******************************************************************************
